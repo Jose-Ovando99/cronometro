@@ -1,0 +1,1 @@
+Cronometro realizado con html, css y js con la finalidad de aprender sobre el DOM y manipulacion del mismo
